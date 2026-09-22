@@ -1,7 +1,6 @@
 export { profile } from './profile'
 export { narrative } from './narrative'
 export { projects } from './projects'
-export { principles } from './principles'
 export { career } from './career'
 export { skills } from './skills'
 export { telemetry } from './telemetry'

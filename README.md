@@ -68,9 +68,6 @@ does not go on the page.** An unverifiable figure costs far more in an interview
 than a missing one, and this is the single most common way portfolios lose
 credibility.
 
-The same applies to `Principle.appliedIn` — a principle with no project behind it
-reads as a platitude. Wired to a case study, it reads as a track record.
-
 ---
 
 ## Before you launch

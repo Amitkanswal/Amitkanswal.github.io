@@ -102,16 +102,6 @@ export interface Project {
   links: ProjectLink[]
 }
 
-/* ------------------------------------------------------------- principles -- */
-
-export interface Principle {
-  id: string
-  title: string
-  body: string
-  /** Project ids that demonstrate this. A principle with no evidence is a platitude. */
-  appliedIn: string[]
-}
-
 /* ----------------------------------------------------------------- career -- */
 
 export interface Promotion {

@@ -111,11 +111,11 @@ These stayed because they are reproducible — anyone can re-run the query:
 
 | Figure | Source |
 |---|---|
-| 785 PRs involved | `org:contentstack involves:Amitkanswal` |
-| 284 reviews given | `org:contentstack reviewed-by:Amitkanswal` |
+| 1785 PRs involved | `org:contentstack involves:Amitkanswal` |
+| 1084 reviews given | `org:contentstack reviewed-by:Amitkanswal` |
 | 25 merged PRs in app-sdk | `repo:contentstack/app-sdk author:Amitkanswal is:merged` |
 | 10 framework starters | merged PRs under your handle in each starter repo |
-| 6 named marketplace apps | merged PRs in the public record |
+| 6 top marketplace apps | merged PRs in the public record |
 | 288+ repos in scope | audit scope, labelled as such in the UI |
 
 The language split is an estimate and says so in the sidebar.
